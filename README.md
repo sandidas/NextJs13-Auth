@@ -34,3 +34,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+- How do I calculate the tax if most of my purchases and sales are in US dollars?
+
+- From the last date up to what date should bill information be provided? For example, 01'September to 30th September.
+
+- Can all my invoices be merged and submitted? For example, my entire monthly sale is 50,000 INR
+
+- How do I attach my paid salary to my purchased service/product and submit it?
+
+- How do I mention some of my purchased services with the GST invoice?
+
+- I use Payment Gateway (Stripe). And Stripe deducts GST and then transfers the money to my bank account. Do I have to mention the already GST-paid invoice?
+
